@@ -1,4 +1,4 @@
-# Project 1 — Fake Wi-Fi Hotspot & Phishing Login Simulation
+# Implementation-of-Fake-Wi-Fi-Hotspot-and-Phishing-Login-Page-Attack
 
 **Short description**  
 Simulates a rogue Wi-Fi access point and captive phishing login portal in an isolated lab to demonstrate credential-theft risks and teach defensive awareness.
