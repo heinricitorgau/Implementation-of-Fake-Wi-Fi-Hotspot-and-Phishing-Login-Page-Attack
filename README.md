@@ -1,4 +1,4 @@
-# Implementation-of-Fake-Wi-Fi-Hotspot-and-Phishing-Login-Page-Attack
+# Implementation of Fake Wi-Fi Hotspot and Phishing Login Page Attack
 
 **Short description**  
 Simulates a rogue Wi-Fi access point and captive phishing login portal in an isolated lab to demonstrate credential-theft risks and teach defensive awareness.
